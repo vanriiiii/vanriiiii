@@ -6,6 +6,10 @@
 <!-- 自分のリポジトリ内で使用した言語をドーナッツグラフで表示してくれる -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)  
 
+<!-- 個人のGitHubの活動履歴からグラフなどを作成してくれる -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanriiiii&theme=dracula)
+
+
 <!--
 **vanriiiii/vanriiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
