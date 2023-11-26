@@ -1,4 +1,7 @@
-### Hi there 👋
+<!-- 自分のgithubを訪問してくれた人の人数 -->
+![](https://komarev.com/ghpvc/?username=vanriiiii&color=green&label=PROFILE+VIEWS)
+
+# Hi there 👋
 
 <!--
 **vanriiiii/vanriiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
